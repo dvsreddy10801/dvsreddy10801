@@ -1,4 +1,4 @@
-# Hi 👋, I'm Siva Reddy
+# Hi 👋, I'm Devireddy Venkata Siva Reddy
 
 ### Turning Ideas into Silicon | Digital VLSI Engineer 💡➡️⚡
 
