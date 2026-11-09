@@ -35,16 +35,7 @@ Previously worked as a **Project Associate at CeNSE, IISc Bengaluru**. Currently
 ![Synopsys](https://img.shields.io/badge/Synopsys-000000?style=for-the-badge&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-EE1B24?style=for-the-badge&logoColor=white)
 
-**Programming Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-**Tools & Technologies**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -63,33 +54,14 @@ Previously worked as a **Project Associate at CeNSE, IISc Bengaluru**. Currently
 
 ---
 
-### 🚀 Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| MIPS Processor | Implementation and verification of a MIPS processor | Verilog |
-| RTL-to-GDSII Full Adder | Complete ASIC implementation from RTL to physical layout | Verilog, Synopsys |
-| Synchronous FIFO | FIFO architecture with read/write control logic | Verilog |
-| Dual-Port RAM | Memory design supporting independent read/write operations | Verilog |
-| Traffic Light Controller | FSM-based traffic signal controller | Verilog, Vivado |
-| Vending Machine | FSM-based digital vending machine | Verilog |
-| FPGA Adder Design | Digital arithmetic circuit implementation on FPGA | Vivado, Verilog |
 
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ### 🤝 Connect With Me
 
-- 📧 Email: YOUR_EMAIL
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
-- 💻 GitHub: [GitHub Profile](https://github.com/YOUR_GITHUB_USERNAME)
+- 📧 Email: dvsreddy2001@gmailcom
+- 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/devireddyvenkatasivareddy6/)
+- 💻 GitHub: [GitHub Profile](https://github.com/dvsreddy10801))
 
 ---
 
